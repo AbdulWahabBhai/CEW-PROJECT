@@ -1,0 +1,5 @@
+Averages for Last 12 entries:
+Average Temperature: 8.80 °C
+Average Humidity: 84.00%
+Average Wind Speed: 4.12 m/s
+-----------------------------------
